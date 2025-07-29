@@ -1,5 +1,5 @@
 ---
-title: Salsa Theory
+title: 1 - Salsa Theory
 ---
 
 People underestimate how useful theory is for dancing. If you understand the theory behind the dance, it will no longer require you to think very hard about certain actions because they will simply become logical conclusions.
